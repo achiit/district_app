@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "252494194514",
+    "firebase_url": "https://admk-bf35c-default-rtdb.firebaseio.com",
+    "project_id": "admk-bf35c",
+    "storage_bucket": "admk-bf35c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252494194514:android:69af93aed0b83b08147c8b",
+        "android_client_info": {
+          "package_name": "com.example.district_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAcUIYIJwFJ3yZNIE118ebpvKcIoj96Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252494194514:android:29e07d59899a3699147c8b",
+        "android_client_info": {
+          "package_name": "com.example.partyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAcUIYIJwFJ3yZNIE118ebpvKcIoj96Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252494194514:android:7bae698d4f33ee46147c8b",
+        "android_client_info": {
+          "package_name": "com.example.stateapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAcUIYIJwFJ3yZNIE118ebpvKcIoj96Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
